@@ -1,0 +1,7 @@
+C:\Users\Učenik 3\source\repos\vjezba-varijabla\vjezba-varijabla\bin\Debug\vjezba-varijabla.exe.config
+C:\Users\Učenik 3\source\repos\vjezba-varijabla\vjezba-varijabla\bin\Debug\vjezba-varijabla.exe
+C:\Users\Učenik 3\source\repos\vjezba-varijabla\vjezba-varijabla\bin\Debug\vjezba-varijabla.pdb
+C:\Users\Učenik 3\source\repos\vjezba-varijabla\vjezba-varijabla\obj\Debug\vjezba-varijabla.csprojAssemblyReference.cache
+C:\Users\Učenik 3\source\repos\vjezba-varijabla\vjezba-varijabla\obj\Debug\vjezba-varijabla.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 3\source\repos\vjezba-varijabla\vjezba-varijabla\obj\Debug\vjezba-varijabla.exe
+C:\Users\Učenik 3\source\repos\vjezba-varijabla\vjezba-varijabla\obj\Debug\vjezba-varijabla.pdb
